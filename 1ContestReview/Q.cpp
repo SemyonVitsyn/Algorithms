@@ -1,4 +1,4 @@
-// linear algorithm
+// linear algorithm(7 points)
 
 #include <iostream>
 #include <map>
