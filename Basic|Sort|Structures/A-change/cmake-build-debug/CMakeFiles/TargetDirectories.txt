@@ -1,3 +1,0 @@
-D:/projects/babichev_2sem/basic algorithms and data structures/A-change/cmake-build-debug/CMakeFiles/A_change.dir
-D:/projects/babichev_2sem/basic algorithms and data structures/A-change/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/projects/babichev_2sem/basic algorithms and data structures/A-change/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-"D:\clion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\A_change.dir/objects.a
-D:\clion\mingw64\bin\ar.exe cr CMakeFiles\A_change.dir/objects.a @CMakeFiles\A_change.dir\objects1.rsp
-D:\clion\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\A_change.dir/objects.a -Wl,--no-whole-archive -o A_change.exe -Wl,--out-implib,libA_change.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\A_change.dir\linklibs.rsp
